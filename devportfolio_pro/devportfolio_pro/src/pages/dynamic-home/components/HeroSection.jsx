@@ -244,9 +244,9 @@ def analyze_performance(data):
               <div className="relative">
                 <div className="w-64 h-64 lg:w-80 lg:h-80 rounded-2xl overflow-hidden glass-card p-2">
                   <Image
-                    src="./assets/myphoto.jpg"
-                    alt="T Suman Yadav - Software Developer"
-                    className="w-full h-full object-cover rounded-xl"
+                  src="/assets/images/myphoto.jpg"
+                  alt="T Suman Yadav - Software Developer"
+                  className="w-full h-full object-cover rounded-xl"
                   />
                 </div>
                 
