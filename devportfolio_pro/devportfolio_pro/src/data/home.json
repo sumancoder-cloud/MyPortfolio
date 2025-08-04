@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "T Suman Yadav",
+    "roles": [
+      "Software Developer",
+      "Problem Solver",
+      "Innovation Catalyst"
+    ],
+    "description": "Crafting digital experiences that bridge the gap between complex problems and elegant solutions. Currently pursuing B.Tech at SRM University AP, passionate about building scalable applications that make a difference.",
+    "stats": [
+      { "value": "15+", "label": "Projects" },
+      { "value": "3+", "label": "Internships" },
+      { "value": "500+", "label": "Commits" }
+    ],
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    "status": "Available for hire",
+    "techStack": "Full Stack"
+  }
+}
